@@ -10,7 +10,7 @@ This is my Portfolio
 7) http://darkliquid.co/
 8) https://bulletproofnaturals.com/
 9) https://histonenterprises.com/
-10) https:abc.com/
+10) https://abc.com/
 
 
 # Shopify Portfolio
